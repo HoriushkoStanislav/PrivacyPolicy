@@ -1,10 +1,9 @@
-
 Privacy Policy
 This privacy policy applies to the Word Factory app (hereby referred to as "Application") for mobile devices that was created by Jamandham, LLC (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 
 What information does the Application obtain and how is it used?
-The Application does not obtain any information when you download and use it. Registration is not required to use the Application.
+The Application sends the advertisement data to Google AdMob for collecting advertisement statistics and ad personalization.. Registration is not required to use the Application.
 
 
 Does the Application collect precise real time location information of the device?
@@ -12,7 +11,7 @@ This Application does not collect precise information about the location of your
 
 
 Do third parties see and/or have access to information obtained by the Application?
-Since the Application does not collect any information, no data is shared with third parties.
+The Application sends the advertisement data to Google AdMob.
 
 
 What are my opt-out rights?
