@@ -3,7 +3,7 @@ This privacy policy applies to the Word Factory app (hereby referred to as "Appl
 
 
 What information does the Application obtain and how is it used?
-The Application sends the advertisement data to Google AdMob for collecting advertisement statistics and ad personalization.. Registration is not required to use the Application.
+The Application sends the advertisement data to Google AdMob for collecting advertisement statistics and ad personalization. Registration is not required to use the Application.
 
 
 Does the Application collect precise real time location information of the device?
